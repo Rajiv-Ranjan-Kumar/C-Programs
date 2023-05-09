@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1630081003 source:e:\c program\assingment 12\q2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1630152738 source:d:\c program\assingment 12\q2\main.c
+	<stdio.h>
+	<conio.h>
+
